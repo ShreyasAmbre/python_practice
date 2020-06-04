@@ -1,0 +1,23 @@
+1. WAP  function that takes a sequence of numbers and determines whether all the numbers are different from each other.
+2. WAP  to remove and print every third number from a list of numbers until the list becomes empty.
+3. WAP  to get the top stories from Google news
+4. WAP  to get a list of locally installed Python modules
+5. WAP  to display some information about the OS where the script is running.
+6. WAP  to check the sum of three elements (each from an array) from three arrays is equal to a
+ target value. Print all those three-element combinations.
+ Sample data:
+    /*
+    X = [10, 20, 20, 20]
+    Y = [10, 20, 30, 40]
+    Z = [10, 30, 40, 20]
+    target = 70
+7. WAP  to get all strobogrammatic numbers that are of length n
+    sample data :
+    n = 2 [88, 69, 96, 11] when rotate 180 degree it looks sames
+8. WAP  to find the digits which are absent in a given mobile number.
+9. WAP  to find common divisors between two numbers in a given pair.
+10. WAP  to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure.
+11. WAP  to find heights of the top three building in descending order from eight given buildings.
+12. WAP  to compute the digit number of sum of two given integers.
+13. WAP  which reads an integer n and find the number of combinations of a,b,c and d (0 = a,b,c,d = 9) where (a + b + c + d) will be equal to n
+15.  

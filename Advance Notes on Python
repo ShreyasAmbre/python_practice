@@ -1,0 +1,56 @@
+1. Recursion :- In simple term function is calling itself again
+2. lambda function:- used to call function inside inbuilt python function refer code
+3. decorators:- we can add extra logic to inbuilt function this why decorators is used
+4. Special Variables:- what is __name__ and why __name__ = __main__  explain in hello.py and methods.py
+5. Object Oriented Programming
+
+-> Class :- Can be known as Blue Print -> which has Properties and Methods
+    -> It include
+        -> property
+            -> object variables (Where object is passed in (self) argument)
+                -> declare inside the def__init__(self, argument1, argumen2, ...):
+            -> static variables
+                -> declare inside the class which values of variables are same for every object
+        -> methods->
+            -> Object Methods (Where object is passed in (self) argument)
+                -> Accesor methods (getData) has return statement ex:- def get_id(self): return self.id
+                -> Mutators methods (setData) ex:- def set_des(self): self.des = "Mumbai"
+            -> Class Methods
+                # Note :- cls for class methods is keyword like self for methods
+                # cls class is passed
+                -> example def getSchool(cls) return cls.school
+            -> Static Method
+                # Note:- This static methods does not belongs to object or class its simple static
+
+                refer AllAboutClass.py
+
+-> Object -> depend on class also known as Instance of Class
+-> Abstraction
+-> Polymorphism
+    -> poly means many and morph meand form -: One object will have multiple forms (It will behave different in every form)
+    -> 4 way of Implementing Polymorphism
+        -> Duck Typing :- An object can excecute methods of two different class
+        -> Operator Overloading :- Operator Overloading means giving extended meaning beyond their predefined operational meaning
+        -> Methods  Overloading :- If we have 2 methods with a same name but different parameter then its called methods overloading
+                                   ex:- def average(a,b)
+                                        def average(a, b, c) called method overloading
+                                   Note:- In python we cant declare method with same name in same class called method overloading  which is not support
+        -> Operator Overriding :- If we have same method with same name in different class called method overriding it is supported in python
+                                refer Inheritance.py for Method Overriding same methoda in 2 different class
+
+-> Inheritance
+    -> What is Inheritance :- Inheritance allows us to define a class that inherits all the methods and properties from another class.
+    -> In python their are -: Single, Multi Level & Multiple Inheritance
+    -> Constructor in Inheritance :- How it behave ?
+    refer Inheritance.py and MultipleInheritance.py
+-> Encapsulation
+
+6. try-except-finally :- DO some practice on it. It help in solving error without stoping the excecution of program
+
+7. Multi Threading:-
+
+8. Generators and Iterators :-
+    NOte:- we use for loop to travel from 1st value of list to last value of list but now we have Iterator and Generator
+    -> Iterators is used to travel all the values present in list,tuples, dict, set iter(), next()
+
+9. File Handling :- we learn how to open, read, write, copy operation on file

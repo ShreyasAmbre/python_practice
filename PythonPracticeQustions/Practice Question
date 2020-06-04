@@ -1,0 +1,28 @@
+1. Even Odd (Done)
+2. Prime Number (Done)
+3. Factorial (Done)
+4. Fibonacci Series (Done)
+5. PATTERS Program (Done)
+6. Accept Username and REVERSE it in op (Done)
+7. WAP to accept a FILENAME from the user & print only the extension of that (Done)
+8. WAP to display the first and last COLORS from the colors  list (Done)
+9. WAP that accepts an integer (n) and COMPUTE the value of n+nn+nnn ex:- 3+3*3+3*3*3* = 3 + 9 + 27 = 39 (DONE)
+10. WAP to calculate number of days between two dates.
+Sample dates : (2014, 7, 2), (2014, 7, 11)
+Expected output : 9 days
+11. WAP to get a new STRING from a given string where "Is" has been added to the front.
+If the given string already begins with "Is" then return the string unchanged.
+12. WAP to test whether a passed letter is a VOWEL or not. (Done)
+13. WAP to CHECK NO. is present in list or not (Done)
+14. WAP to create a HISTOGRAM from a given list of integers. (Done)
+ex:- [2, 3, 1, 4]
+output :-   @@
+            @@@
+            @
+            @@@@
+15. WAP to concatenate all elements in a list into a string and return it (Done)
+16. Sorting (Bubble Sort, Insertion Sort etc)
+17. WAP for "a2b3z1c4" output:- aabbbzcccc (Done)
+18. Write a Python function to find the maximum and minimum numbers from a sequence of numbers. (Done)
+19. Binary Search
+
