@@ -1,0 +1,18 @@
+1. Need to install Numpy :-
+pip3 install numpy
+
+2. When ever we want to use we need to import numpy in our code
+
+3. Numpy is used to work with array, we can create 2-D, #-D Array also
+
+4. numpy.array([arr_value1, arr_value2, arr_value3, arr_value4])
+
+5. Array indexing, slicing, data types are used on Numpy Array
+
+6. dimension of array:-
+    1. arr_name.ndim,
+    2. Slicing:- arr[0:4:2],
+    3. To check the datatype :- arr_name.dtype
+    4. Can change the data type of array :- arr_name.astype('i') # i stand for integer,
+    5. Used to make new copy of array :- copy() and this is used to just view the original array :-  view()
+    6. arr_name.shape() :- giver number of dimension and element inside each dimension
